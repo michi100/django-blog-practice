@@ -1,0 +1,2 @@
+# django-blog-practice
+practice
